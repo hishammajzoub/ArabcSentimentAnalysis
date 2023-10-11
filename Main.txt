@@ -1,0 +1,24 @@
+ -----------------------------------
+ Sentiment Analysis Of Arabic Tweets
+ -----------------------------------
+
+  2,059 Tweets
+	 792 Positive Tweets (38.47%)
+	 677 Negative Tweets (32.88%)
+	 590 Neutral Tweets  (28.65%)
+
+	  1,647 Training Tweets (80%)
+   	    412 Testing Tweets  (20%)
+
+
+#   ML Algorithm                Test Accuracy Score
+---------------------------------------------------
+1.  LR  - Logistic Regression               56.31%
+2.  MNB - Multinomial Naive Bayes           55.34%
+3.  KNN - K-Nearest Neighbors               54.37%
+4.  SVM - Support Vector Machine            57.04%
+5.  DT 	- Decision Tree                     50.0%
+6.  RF  - Random Forest                     52.91%
+7.  MLP - Multi Layer Perceptron            60.19%
+
+Best Classifier: Multi-Layer Perceptron (MLP)
